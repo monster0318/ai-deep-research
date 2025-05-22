@@ -12,4 +12,5 @@ export const systemPrompt = () => {
   - Value good arguments over authorities, the source is irrelevant.
   - Consider new technologies and contrarian ideas, not just the conventional wisdom.
   - You may use high levels of speculation or prediction, just flag it for me.`;
+
 };
