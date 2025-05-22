@@ -14,6 +14,8 @@ function log(...args: any[]) {
   console.log(...args);
 }
 
+
+
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
